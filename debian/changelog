@@ -1,0 +1,30 @@
+ppp-scripts-kanotix (0.5.4) unstable; urgency=low
+
+  * packaging overhaul.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 23 Aug 2005 18:01:18 +0200
+
+ppp-scripts-kanotix (0.5-3) unstable; urgency=low
+
+  * fork for Kanotix XDG compatibility.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 17 Dec 2004 21:21:50 +0100
+
+ppp-scripts-knoppix (0.5-3) unstable; urgency=low
+
+  * Faster timeout for S55 init
+
+ -- Klaus Knopper <knoppix@knopper.net>  Tue, 10 Aug 2004 07:09:30 +0200
+
+ppp-scripts-knoppix (0.5-2) unstable; urgency=low
+
+  * GPRS support (europe)
+
+ -- Klaus Knopper <knoppix@knopper.net>  Fri,  5 Sep 2003 19:56:59 +0200
+
+ppp-scripts-knoppix (0.5-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Klaus Knopper <knoppix@knopper.net>  Fri,  6 Dec 2002 19:56:47 +0100
+

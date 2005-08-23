@@ -1,0 +1,14 @@
+Source: ppp-scripts-kanotix
+Section: net
+Priority: optional
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends-Indep: @cdbs@
+Standards-Version: 3.6.2
+
+Package: ppp-scripts-kanotix
+Architecture: all
+Depends: ppp
+Provides: ppp-scripts-knoppix
+Replaces: ppp-scripts-knoppix
+Description: PPP connection scripts for various providers
+ Collection of ppp scripts.

@@ -1,0 +1,32 @@
+# You usually need this if there is no PAP authentication
+noauth
+# The chat script (be sure to edit that file, too!)
+connect "/usr/sbin/chat -v -f /etc/chatscripts/gprs"
+# Set up routing to go through this PPP link
+defaultroute
+# Set this to /dev/ircomm0 or similar
+/dev/modem
+# Speed
+115200
+# Reconnect on disconnect
+persist
+# Be extra verbose
+debug
+# You may need these
+passive
+noipdefault
+noproxyarp
+ipcp-accept-local
+ipcp-accept-remote
+ipcp-restart 2
+ipcp-max-configure 20
+ipcp-max-failure 20
+asyncmap 0xa0000
+novj
+nodeflate
+nobsdcomp
+# Use remote DNS
+usepeerdns
+# With GPRS, authentication is normally done  automatically
+# via your cellphone number, so leave login name empty
+user ""
