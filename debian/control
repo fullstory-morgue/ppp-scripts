@@ -1,11 +1,11 @@
-Source: ppp-scripts-kanotix
+Source: ppp-scripts
 Section: net
 Priority: optional
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: cdbs (>= 0.4.23-1.1), debhelper (>= 5.0.0)
 Standards-Version: 3.7.2
 
-Package: ppp-scripts-kanotix
+Package: ppp-scripts
 Architecture: all
 Depends: ppp
 Description: PPP connection scripts for various providers
