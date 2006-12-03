@@ -1,12 +1,13 @@
-ppp-scripts (0.5.6) UNRELEASED; urgency=low
+ppp-scripts (0.5.6) unstable; urgency=low
 
-  * NOT RELEASED YET
-
+  [ Joaquim Boura ]
   * Initial version for sidux
-
   * fix lintian errors.
 
- -- Joaquim Boura <x-un-i@sidux.com>  Fri,  1 Dec 2006 18:29:23 +0100
+  [ Stefan Lippers-Hollmann ]
+  * tweak debian/control.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun,  3 Dec 2006 02:59:40 +0100
 
 ppp-scripts-kanotix (0.5.5) unstable; urgency=low
 
