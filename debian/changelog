@@ -1,3 +1,9 @@
+ppp-scripts (0.5.9) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 08 Dec 2007 23:25:39 +0100
+
 ppp-scripts (0.5.8) unstable; urgency=low
 
   * update to Standards-Version 3.7.3, no changes necessary.
