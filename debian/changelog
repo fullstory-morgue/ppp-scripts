@@ -1,8 +1,8 @@
-ppp-scripts (0.5.9) UNRELEASED; urgency=low
+ppp-scripts (0.5.9) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * update to debhelper compat 6.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 08 Dec 2007 23:25:39 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 19 Jan 2008 00:51:54 +0100
 
 ppp-scripts (0.5.8) unstable; urgency=low
 
